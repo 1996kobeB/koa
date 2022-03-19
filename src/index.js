@@ -24,4 +24,4 @@ app.use(middleware)
 app.use(router())
 app.listen(3000)
 // es6语法需要npx babel-node src/index.js 启动
-// 热更新： npx nodemon --exec babel-node src/index.js 启动es6语法并热更新 
+// 热更新： npx nodemon --exec babel-node src/index.js 启动es6语法并热更新  
